@@ -24,7 +24,7 @@ namespace Aula1
             Console.WriteLine("O número é: " + x);
 
             // Em vez de concatenar "+"
-            // Console.WriteLine("O número é: {indice da variavel}"
+            // Console.WriteLine("O número é: {indice da variavel}."
 
 
 

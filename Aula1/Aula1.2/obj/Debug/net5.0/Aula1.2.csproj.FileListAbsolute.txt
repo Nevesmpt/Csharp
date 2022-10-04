@@ -1,0 +1,16 @@
+C:\Users\mneves\Desktop\csharp\projetos\Csharp\Aula1\Aula1.2\bin\Debug\net5.0\Aula1.2.exe
+C:\Users\mneves\Desktop\csharp\projetos\Csharp\Aula1\Aula1.2\bin\Debug\net5.0\Aula1.2.deps.json
+C:\Users\mneves\Desktop\csharp\projetos\Csharp\Aula1\Aula1.2\bin\Debug\net5.0\Aula1.2.runtimeconfig.json
+C:\Users\mneves\Desktop\csharp\projetos\Csharp\Aula1\Aula1.2\bin\Debug\net5.0\Aula1.2.runtimeconfig.dev.json
+C:\Users\mneves\Desktop\csharp\projetos\Csharp\Aula1\Aula1.2\bin\Debug\net5.0\Aula1.2.dll
+C:\Users\mneves\Desktop\csharp\projetos\Csharp\Aula1\Aula1.2\bin\Debug\net5.0\Aula1.2.pdb
+C:\Users\mneves\Desktop\csharp\projetos\Csharp\Aula1\Aula1.2\obj\Debug\net5.0\Aula1.2.csproj.AssemblyReference.cache
+C:\Users\mneves\Desktop\csharp\projetos\Csharp\Aula1\Aula1.2\obj\Debug\net5.0\Aula1.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mneves\Desktop\csharp\projetos\Csharp\Aula1\Aula1.2\obj\Debug\net5.0\Aula1.2.AssemblyInfoInputs.cache
+C:\Users\mneves\Desktop\csharp\projetos\Csharp\Aula1\Aula1.2\obj\Debug\net5.0\Aula1.2.AssemblyInfo.cs
+C:\Users\mneves\Desktop\csharp\projetos\Csharp\Aula1\Aula1.2\obj\Debug\net5.0\Aula1.2.csproj.CoreCompileInputs.cache
+C:\Users\mneves\Desktop\csharp\projetos\Csharp\Aula1\Aula1.2\obj\Debug\net5.0\Aula1.2.dll
+C:\Users\mneves\Desktop\csharp\projetos\Csharp\Aula1\Aula1.2\obj\Debug\net5.0\refint\Aula1.2.dll
+C:\Users\mneves\Desktop\csharp\projetos\Csharp\Aula1\Aula1.2\obj\Debug\net5.0\Aula1.2.pdb
+C:\Users\mneves\Desktop\csharp\projetos\Csharp\Aula1\Aula1.2\obj\Debug\net5.0\Aula1.2.genruntimeconfig.cache
+C:\Users\mneves\Desktop\csharp\projetos\Csharp\Aula1\Aula1.2\obj\Debug\net5.0\ref\Aula1.2.dll
