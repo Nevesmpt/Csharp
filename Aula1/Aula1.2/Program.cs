@@ -11,8 +11,11 @@ namespace Aula1._2
             a = int.Parse(Console.ReadLine());
             Console.WriteLine("Digite o segundo valor:");
             b = int.Parse(Console.ReadLine());
-            Console.WriteLine("os dois primeiros valores são: " +b + "e" +a );
-           
+            Console.WriteLine("os dois primeiros valores são:");
+            Console.WriteLine(b);
+            Console.WriteLine(a);
+
+
             Console.WriteLine("Digite um valor:");
             n1 = int.Parse(Console.ReadLine());
             Console.WriteLine("Digite um segundo valor:");
